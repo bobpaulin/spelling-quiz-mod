@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spelling-quiz-mod",
+  "name": "Spelling Quiz Mod",
+  "description": "The purpose of this mod is to embed spelling words into the minecraft game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bob Paulin"],
+  "credits": "Devoxx4Kids for the great tutorial.  Becky, Kaitlyn, Logan, and Jake Paulin for being awesome.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
